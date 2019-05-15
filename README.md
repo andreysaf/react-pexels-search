@@ -2,6 +2,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## React Pexels Search
 
+React app for searching photos from Pexels API.
+
 <img src="https://i.imgur.com/UWkd1jx.png" title="source: imgur.com" />
 
 In the project directory, you can run:
