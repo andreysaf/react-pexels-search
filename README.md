@@ -2,7 +2,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## React Pexels Search
 
-<img src="https://imgur.com/UWkd1jx" title="source: imgur.com" />
+<img src="https://i.imgur.com/UWkd1jx.png" title="source: imgur.com" />
 
 In the project directory, you can run:
 
