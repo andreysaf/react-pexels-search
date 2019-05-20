@@ -2,7 +2,7 @@
 
 React app for searching photos from Pexels API.
 
-<img src="https://i.imgur.com/UWkd1jx.png" title="source: imgur.com" />
+<img src="https://i.imgur.com/vfekhNE.png" title="source: imgur.com" />
 
 In the project directory, you can run:
 
