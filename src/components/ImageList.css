@@ -8,4 +8,5 @@
 .image-list img {
     width: 300px;
     grid-row-end: span 2;
+    margin: 0 10px 0 5px;
 }
